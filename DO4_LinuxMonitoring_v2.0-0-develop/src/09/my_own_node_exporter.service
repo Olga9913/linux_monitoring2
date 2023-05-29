@@ -1,0 +1,11 @@
+[Unit]
+Description=Basic system monitoring exporter for Prometheus
+
+[Service]
+User=root
+WorkingDirectory=/media/common_files/Mon2/09
+ExecStart=/bin/bash main.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

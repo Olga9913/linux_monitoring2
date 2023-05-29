@@ -1,0 +1,20 @@
+/etc/aaabc0_101122 --- 2022-11-10 19:41:25 ---
+Script finished at 2022-11-10 19:41:25
+Script execution time (in seconds) = 2.6
+
+/lib/eject/aaabc0_101122 --- 2022-11-10 19:42:15 ---
+Script finished at 2022-11-10 19:42:15
+Script execution time (in seconds) = 0.0
+
+/etc/thermald/aaabc1_101122 --- 2022-11-10 19:44:39 ---
+Script finished at 2022-11-10 19:44:39
+Script execution time (in seconds) = 0.1
+
+/snap/aaabc0_101122 --- 2022-11-10 20:13:18 ---
+Script finished at 2022-11-10 20:13:18
+Script execution time (in seconds) = 10.3
+
+/run/snapd/lock/aaabc2_101122 --- 2022-11-10 20:31:00 ---
+Script finished at 2022-11-10 20:31:00
+Script execution time (in seconds) = 29.3
+
